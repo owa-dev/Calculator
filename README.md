@@ -12,4 +12,4 @@ Things I learned:<br>
 - Handling of overflow<br>
 - Assigning of changing variables to use for logic<br>
 
-Live: https://learning-softdev.github.io/Calculator/
+Live: https://owa-dev.github.io/Calculator/
